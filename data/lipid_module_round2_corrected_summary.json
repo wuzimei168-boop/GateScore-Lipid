@@ -1,0 +1,18 @@
+{
+  "round": "2-corrected",
+  "model": "RandomForest (corrected, AUC=0.992, MCC=0.662)",
+  "date": "2026-06-16",
+  "total_screened": 9599,
+  "pass_all": 3154,
+  "elevated_conjugatable": 462,
+  "mean_5d": 44.3,
+  "max_5d": 88.4,
+  "s_gating_gt50": 608,
+  "mean_s_gating": 13.0,
+  "tcm_s_gating_mean": 34.6,
+  "synthetic_s_gating_mean": 4.1,
+  "source_distribution": {
+    "round1": 6803,
+    "tcm_focused": 2796
+  }
+}
