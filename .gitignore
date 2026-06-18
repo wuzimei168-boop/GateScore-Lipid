@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+data/gatescore_RF_v1.joblib
+data/lipid_module_round2_corrected_full_screen.csv
+figures/*.png
