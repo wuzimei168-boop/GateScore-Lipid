@@ -58,8 +58,8 @@ GateScore-Lipid/
 ```
 
 The trained model, full 9,599-molecule screening table, and publication
-figures are distributed as downloadable assets in the GitHub v1.0 release
-to keep the source repository lightweight.
+figures will be distributed as downloadable assets in the GitHub v1.0
+release to keep the source repository lightweight.
 
 ## Data
 
