@@ -27,9 +27,9 @@ conda activate gatescore-lipid
 # Run the tutorial notebook
 jupyter notebook notebooks/GateScore_Lipid_Tutorial.ipynb
 
-# Or use the pre-computed screening results
+# Or use the Top 50 pre-computed screening results
 import pandas as pd
-results = pd.read_csv("data/lipid_module_round2_corrected_full_screen.csv")
+results = pd.read_csv("data/lipid_module_top50_corrected.csv")
 ```
 
 ## Repository Structure
@@ -56,6 +56,10 @@ GateScore-Lipid/
     ├── Figure3_Diagnostics.png
     └── Figure4_Candidate_Landscape.png
 ```
+
+The trained model, full 9,599-molecule screening table, and publication
+figures are distributed as downloadable assets in the GitHub v1.0 release
+to keep the source repository lightweight.
 
 ## Data
 
